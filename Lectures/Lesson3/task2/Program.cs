@@ -6,6 +6,7 @@
         Console.Write($"{i*i} ");
         i++;
     }
+        Console.WriteLine(" ");
 }
 
 PrintSquares(5);
